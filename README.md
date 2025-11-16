@@ -18,3 +18,4 @@ Replace "COM6" with your Arduino’s correct port. On macOS or Linux, the port m
 Author: zvitamini
 Date: November 15, 2025
 Purpose: Built with care and dedication for education
+<img width="1257" height="726" alt="Radar_Arduino_Circuit" src="https://github.com/user-attachments/assets/711aeab1-c0c1-4515-8b34-b51f4d85d653" />
